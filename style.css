@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+hr {
+    background-color: blueviolet;
+}
+nav {
+    background-color: #ffff;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#name {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#am {
+    font-family: monospace;
+}
+#cm {
+    font-family: monospace;
+}
